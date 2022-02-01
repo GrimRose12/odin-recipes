@@ -1,0 +1,1 @@
+The aim of this assignment is to create a website with multiple pages, one for each recipe. It should contain links, images, and text.
