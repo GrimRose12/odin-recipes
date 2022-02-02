@@ -1,0 +1,26 @@
+img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+}
+.desc {
+    color: red;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family: fantasy, cursive, sans-serif;
+}
+div.ingredients {
+    border: solid red;
+    background-color: rgb(255, 255, 136);
+    padding-left: 15px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-color:aliceblue;
+}
